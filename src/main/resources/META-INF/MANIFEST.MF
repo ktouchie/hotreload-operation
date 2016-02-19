@@ -1,0 +1,9 @@
+Bundle-ActivationPolicy: lazy
+Bundle-ClassPath: .
+Manifest-Version: 1.0
+Bundle-Vendor: Nuxeo
+Bundle-Version: 1.0.0
+Bundle-Name: HotReload Operation
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: org.nuxeo.addon.hot-reload-operation;singleton=true
+Nuxeo-Component: OSGI-INF/hot-reload-operation-contrib.xml
